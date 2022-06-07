@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="673.0" y="1712.0">laboratorioPedag.UMC_TCC_BACKEND.report.rest.ReportController</node>
+    <node x="0.0" y="0.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.model.Agenda</node>
+    <node x="338.0" y="1712.0">laboratorioPedag.UMC_TCC_BACKEND.usuario.dal.UsuarioRepository</node>
+    <node x="1707.0" y="1712.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.dto.QuantidadeMaterialUtilizadoDto</node>
+    <node x="1371.0" y="1420.0">laboratorioPedag.UMC_TCC_BACKEND.usuario.service.UsuarioService</node>
+    <node x="0.0" y="1916.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.dal.ResponsavelRepository</node>
+    <node x="574.0" y="0.0">laboratorioPedag.UMC_TCC_BACKEND.usuario.model.Usuario</node>
+    <node x="1048.0" y="0.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.model.AgendaMateriais</node>
+    <node x="661.0" y="1916.0">laboratorioPedag.UMC_TCC_BACKEND.UmcTccBackendAccess</node>
+    <node x="1710.0" y="1420.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.service.AgendaService</node>
+    <node x="0.0" y="1712.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.service.ResponsavelService</node>
+    <node x="267.0" y="1916.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.dal.AgendaMateriaisRepository</node>
+    <node x="1561.0" y="0.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.dto.AgendaDto</node>
+    <node x="0.0" y="1420.0">laboratorioPedag.UMC_TCC_BACKEND.material.rest.MaterialController</node>
+    <node x="917.0" y="1420.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.rest.ResponsavelController</node>
+    <node x="1715.0" y="1040.0">laboratorioPedag.UMC_TCC_BACKEND.usuario.dto.LoginDto</node>
+    <node x="1338.0" y="1040.0">laboratorioPedag.UMC_TCC_BACKEND.usuario.rest.UsuarioController</node>
+    <node x="802.0" y="0.0">laboratorioPedag.UMC_TCC_BACKEND.usuario.dto.UsuarioSimplesDto</node>
+    <node x="0.0" y="1040.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.rest.AgendaController</node>
+    <node x="725.0" y="1040.0">laboratorioPedag.UMC_TCC_BACKEND.report.service.ReportService</node>
+    <node x="1012.0" y="1712.0">laboratorioPedag.UMC_TCC_BACKEND.material.dal.MaterialRepository</node>
+    <node x="389.0" y="1420.0">laboratorioPedag.UMC_TCC_BACKEND.material.service.MaterialService</node>
+    <node x="299.0" y="0.0">laboratorioPedag.UMC_TCC_BACKEND.material.model.Material</node>
+    <node x="1362.0" y="1712.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.dal.AgendaRepository</node>
+    <node x="1333.0" y="0.0">laboratorioPedag.UMC_TCC_BACKEND.agenda.model.Responsavel</node>
+    <node x="930.0" y="1916.0">laboratorioPedag.UMC_TCC_BACKEND.UmcTccBackendApplication</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.2" x="3405.9608630833854" y="2308.1978479220784" />
+  <SelectedNodes>
+    <node>laboratorioPedag.UMC_TCC_BACKEND.report.rest.ReportController</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
